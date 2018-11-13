@@ -3,8 +3,8 @@
 int sum(int,int);
 
 int main(){
-    int a=5;
-    int b=3;
+    int a=114;
+    int b=514;
     std::cout << sum(a, b)<< std::endl;
     return 0;
 }
